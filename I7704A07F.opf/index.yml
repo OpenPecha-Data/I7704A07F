@@ -1,0 +1,71 @@
+id: 7721c33ed67245aab7f7aca1d5896565
+annotation_type: index
+revision: '00001'
+annotations:
+  cced08d4b7344d9b87994765cc0174f5:
+    base: 4141.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 23
+    - title: Preface
+      span:
+        start: 24
+        end: 53
+    - title: § 1-10
+      span:
+        start: 54
+        end: 11608
+    - title: § 11-20
+      span:
+        start: 11609
+        end: 25720
+    - title: § 21-30
+      span:
+        start: 25721
+        end: 36337
+    - title: § 31-40
+      span:
+        start: 36338
+        end: 49647
+    - title: § 41-50
+      span:
+        start: 49648
+        end: 68336
+    - title: § 51-60
+      span:
+        start: 68337
+        end: 85911
+    - title: § 61-70
+      span:
+        start: 85912
+        end: 104206
+    - title: § 71-80
+      span:
+        start: 104207
+        end: 122739
+    - title: § 81-90
+      span:
+        start: 122740
+        end: 139097
+    - title: § 91-100
+      span:
+        start: 139098
+        end: 150628
+    - title: § 101-110
+      span:
+        start: 150629
+        end: 172202
+    - title: § 111-120
+      span:
+        start: 172203
+        end: 185846
+    - title: § 121-126
+      span:
+        start: 185847
+        end: 193355
+    - title: Colophon
+      span:
+        start: 193356
+        end: 193802
